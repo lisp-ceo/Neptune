@@ -1,0 +1,8 @@
+# build script local files
+# build/buildinfo.properties
+# build/config/buildinfo.properties
+
+_site
+node_modules
+*.pyc
+*.sw.
